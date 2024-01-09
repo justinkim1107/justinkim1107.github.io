@@ -16,7 +16,6 @@ h5{
 .column {
     float: left; 
     width: 50%;
-    padding: 10px;
 }
 
 /* Clear floats after the columns */
@@ -25,3 +24,11 @@ h5{
     display: table;
     clear: both;
 }
+
+/* Responsive Layout */
+@media screen and (max-width:600px) {
+    .column {
+        width: 100%;
+    }
+}
+
