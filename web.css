@@ -46,6 +46,12 @@ main {
     margin-top: 100 px;
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
 
 /* Create two equal columns that float next to each other */
 .column {
