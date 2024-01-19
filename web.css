@@ -54,15 +54,7 @@ main {
 .container {
     display: flex;
     align-items: center;
-    justify-content: center
-}
-
-
-/* Create two equal columns that float next to each other */
-.column {
-    float: left; 
-    width: 50%;
-    column-gap: normal;
+    justify-content: center;
 }
 
 element {
