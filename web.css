@@ -66,6 +66,8 @@ body {
     flex-direction: column;
     flex-basis: 1;
     flex: 1;
+    align-items: center;
+    justify-content: center;
 }
 
 .break {
